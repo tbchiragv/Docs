@@ -99,3 +99,17 @@ Educate kids on investing and financial management through interactive and engag
 		- The app allows publishing of financial content.
 		- Content is reviewed and approved before being published.
 		- Creators receive feedback and analytics on their content.
+
+		
+## App Flowchart
+![alt text](image.png)
+
+## App Interaction Diagram
+- ### Kid
+![alt text](image-1.png)
+
+- ### Parent
+![alt text](image-2.png)
+
+- ### Financial Content Creator
+![alt text](image-3.png)
