@@ -94,7 +94,8 @@ Educate kids on investing and financial management through interactive and engag
 
 ### User Persona 3 : Financial Content Creator - A user who publishes financial content for kids.
 - **As a financial content creator,** I want to publish kid-friendly financial content so that I can contribute to the app's educational material.
-	- **Acceptance Criteria:**
+
+    - **Acceptance Criteria:**
 		- The app allows publishing of financial content.
 		- Content is reviewed and approved before being published.
 		- Creators receive feedback and analytics on their content.
