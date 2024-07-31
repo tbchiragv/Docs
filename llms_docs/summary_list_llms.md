@@ -12,9 +12,9 @@ The dataset contains details about various AI models offered by multiple compani
 
 ### Use Cases and Types of Decisions:
 1. **Model Selection for Specific Tasks**:
-    - **High Accuracy Needs**: Models like GPT-4 Turbo, Claude 3.5 Sonnet, Google Gemini 1.5 Pro showcase high accuracy and performance.
+    - **High Accuracy Needs**: Models like GPT-4o, Claude 3.5 Sonnet, Google Gemini 1.5 Pro showcase high accuracy and performance.
     - **High Token Context**: For analyzing large-scale documents, GPT-4 and Gemini models with up to 1M tokens context windows are beneficial.
-    - **Cost Efficiency**: Models like GPT-4 mini, Claude 3 Haiku, and Codestral-Mamba are cost-efficient for various applications.
+    - **Cost Efficiency**: Models like GPT-4o mini, Claude 3 Haiku, and Codestral-Mamba are cost-efficient for various applications.
 
 2. **Cost Management**:
     - Determine the balance between cost and performance for budget-sensitive projects. Models like GPT-3.5 Turbo provide a moderate trade-off between cost and performance.
@@ -23,11 +23,11 @@ The dataset contains details about various AI models offered by multiple compani
     - For real-time applications needing quick responses, models with low latency and high output speeds, like Gemini 1.5 Flash, GPT-4 Turbo Mini, and Mistral NeMo, are suitable.
 
 4. **Specific Domain Applications**:
-    - **Code Generation**: Codestral and Phis-3 models are specialized for coding tasks.
-    - **Multimodal Tasks**: Models like GPT-4 that can process various inputs (text, audio, image, video) are essential for complex multimodal applications.
+    - **Code Generation**: Codestral and Phi-3 models are specialized for coding tasks.
+    - **Multimodal Tasks**: Models like GPT-4o that can process various inputs (text, audio, image, video) are essential for complex multimodal applications.
 
 5. **Fine-tuning Requirements**:
-    - If customizations are needed, select models that support fine-tuning like GPT-4 mini, Gemma models, and Meta Llama models.
+    - If customizations are needed, select models that support fine-tuning like GPT-4o mini, Gemma models, and Meta Llama models.
 
 ### Suggestions:
 1. **Task Fit Analysis**:
@@ -56,4 +56,4 @@ The dataset contains details about various AI models offered by multiple compani
     - For real-time customer support, language models with low latency and high output speeds such as Claude 3 Haiku and GPT-3.5 Turbo Instruct could significantly improve response times.
 
 4. **Content Creation and Moderation**:
-    - Utilize models that excel in text generation and moderation like Codestral and GPT-4 mini for content creation, moderation, and quality control.
+    - Utilize models that excel in text generation and moderation like Codestral and GPT-4o mini for content creation, moderation, and quality control.
